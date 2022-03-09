@@ -1,0 +1,5 @@
+
+Ice cream flavour: Chocolate
+Ice Cream Toppings RM0.50: 
+
+Total: 	 RM 2.0
